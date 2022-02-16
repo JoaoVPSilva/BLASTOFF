@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// Dada as idades I, J, K, X, Y. Faça um algoritmo para calcular a média das idades.
 using System;
 
 namespace teste

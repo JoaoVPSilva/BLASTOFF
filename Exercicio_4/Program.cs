@@ -1,4 +1,6 @@
-﻿using System;
+﻿//Faça um algoritmo que converta a temperatura de C para F. Utilize a fórmula  C = 5/9(F-32)
+
+using System;
 
 namespace teste
 {

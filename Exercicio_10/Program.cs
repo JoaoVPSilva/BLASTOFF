@@ -1,4 +1,6 @@
-﻿    using System;
+﻿//- Faça um algoritmo que receba um número e retorne o Fatorial desse número.
+
+    using System;
 
     namespace teste
     {

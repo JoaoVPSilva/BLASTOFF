@@ -1,4 +1,6 @@
-﻿using System;
+﻿//Faça um algoritmo que receba um número e retorne se o número é primo ou não.
+
+using System;
 
 namespace teste
 {

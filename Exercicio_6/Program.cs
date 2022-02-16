@@ -1,4 +1,7 @@
-﻿using System;
+﻿//- Uma partida de futebol iniciou na hora A e terminou na hora B. Faça um algoritmo que
+//calcule o tempo que durou a partida.
+
+using System;
 
 namespace teste
 {

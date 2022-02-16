@@ -1,4 +1,6 @@
-﻿using System;
+﻿//Dados três números (a, b, c), faça um algoritmo para mostrar o menor número.
+
+using System;
 
 namespace teste
 {

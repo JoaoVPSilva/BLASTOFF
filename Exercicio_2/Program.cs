@@ -1,4 +1,7 @@
-﻿using System;
+﻿//Dada a distância A e o combustível gasto B, faça um algoritmo para calcular o consumo
+//médio.
+
+using System;
 
 namespace teste
 {

@@ -1,4 +1,6 @@
-﻿using System;
+﻿//Faça um algoritmo que receba um número e retorne a tabuada desse número.
+
+using System;
 
 namespace teste
 {

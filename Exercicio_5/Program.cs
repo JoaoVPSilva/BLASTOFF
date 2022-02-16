@@ -1,4 +1,6 @@
-﻿using System;
+﻿//Faça um algoritmo para apresentar se dois números são múltiplos.
+
+using System;
 
 namespace teste
 {

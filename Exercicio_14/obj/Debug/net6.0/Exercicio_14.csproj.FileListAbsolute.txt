@@ -1,0 +1,15 @@
+C:\Users\joaosilva\OneDrive\Trabalho\Área de Trabalho\BlastOff\Exercicio_14\bin\Debug\net6.0\Exercicio_14.exe
+C:\Users\joaosilva\OneDrive\Trabalho\Área de Trabalho\BlastOff\Exercicio_14\bin\Debug\net6.0\Exercicio_14.deps.json
+C:\Users\joaosilva\OneDrive\Trabalho\Área de Trabalho\BlastOff\Exercicio_14\bin\Debug\net6.0\Exercicio_14.runtimeconfig.json
+C:\Users\joaosilva\OneDrive\Trabalho\Área de Trabalho\BlastOff\Exercicio_14\bin\Debug\net6.0\Exercicio_14.dll
+C:\Users\joaosilva\OneDrive\Trabalho\Área de Trabalho\BlastOff\Exercicio_14\bin\Debug\net6.0\Exercicio_14.pdb
+C:\Users\joaosilva\OneDrive\Trabalho\Área de Trabalho\BlastOff\Exercicio_14\obj\Debug\net6.0\Exercicio_14.csproj.AssemblyReference.cache
+C:\Users\joaosilva\OneDrive\Trabalho\Área de Trabalho\BlastOff\Exercicio_14\obj\Debug\net6.0\Exercicio_14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaosilva\OneDrive\Trabalho\Área de Trabalho\BlastOff\Exercicio_14\obj\Debug\net6.0\Exercicio_14.AssemblyInfoInputs.cache
+C:\Users\joaosilva\OneDrive\Trabalho\Área de Trabalho\BlastOff\Exercicio_14\obj\Debug\net6.0\Exercicio_14.AssemblyInfo.cs
+C:\Users\joaosilva\OneDrive\Trabalho\Área de Trabalho\BlastOff\Exercicio_14\obj\Debug\net6.0\Exercicio_14.csproj.CoreCompileInputs.cache
+C:\Users\joaosilva\OneDrive\Trabalho\Área de Trabalho\BlastOff\Exercicio_14\obj\Debug\net6.0\Exercicio_14.dll
+C:\Users\joaosilva\OneDrive\Trabalho\Área de Trabalho\BlastOff\Exercicio_14\obj\Debug\net6.0\refint\Exercicio_14.dll
+C:\Users\joaosilva\OneDrive\Trabalho\Área de Trabalho\BlastOff\Exercicio_14\obj\Debug\net6.0\Exercicio_14.pdb
+C:\Users\joaosilva\OneDrive\Trabalho\Área de Trabalho\BlastOff\Exercicio_14\obj\Debug\net6.0\Exercicio_14.genruntimeconfig.cache
+C:\Users\joaosilva\OneDrive\Trabalho\Área de Trabalho\BlastOff\Exercicio_14\obj\Debug\net6.0\ref\Exercicio_14.dll
